@@ -9,9 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "chalk": "^4.1.1",
     "csv-parser": "^3.0.0",
-    "puppeteer": "^10.1.0",
-    "set-ip-address": "^1.0.9"
+    "mysql2": "^2.2.5",
+    "puppeteer": "^10.1.0"
   }
 }
